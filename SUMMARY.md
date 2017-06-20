@@ -18,5 +18,5 @@
 * [第五部分 普吉游玩](chapter5/README.md)
 * [第六部分 普吉->曼谷](chapter6/README.md)
 * [第七部分 入住曼谷的家](chapter7/README.md)
-* [第八部分 曼谷当地游玩](chapter7/README.md)
+* [第八部分 曼谷当地游玩](chapter8/README.md)
 * [第九部分 返程（回长沙）](chapter9/README.md)
